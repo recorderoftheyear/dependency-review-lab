@@ -4,5 +4,8 @@
   "private": true,
   "scripts": {
     "test": "node index.test.js"
+  },
+  "dependencies": {
+    "is-number": "^7.0.0"
   }
 }
